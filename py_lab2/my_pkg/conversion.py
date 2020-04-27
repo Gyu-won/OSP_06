@@ -2,8 +2,8 @@
 
 def input1_data():
 	n = input('input binary number: ')
-	dec(n)
 	oct(n)
+	dec(n)
 	hex(n)
 
 
